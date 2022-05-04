@@ -4,7 +4,7 @@ Uma aplicação cuja função algorítmica é a criação de um script SQL apart
 
 # :hammer: Funcionalidade
 
-- Uma aplicação que lê linha por linha de um arquivo txt, cujo os dados pertinentes estão separados por ":", criando um outro arquivo texto em forma de um script SQL com 10 campos. Onde o campo email tem que ser rastreado por nao obedecer a sequência.
+- Uma aplicação que lê linha por linha de um arquivo txt de 300.000 linhas, cujo os dados pertinentes estão separados por ":", criando um outro arquivo texto que auxiliará na criação de um script SQL com 10 campos. Onde o campo email tem que ser rastreado por nao obedecer a sequência.
 
 
 ## ✔️ Técnicas e tecnologias utilizadas
